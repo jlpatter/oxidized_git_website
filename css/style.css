@@ -13,6 +13,11 @@ h1 {
     right: 0;
 }
 
-.title-link {
+.little-padding-right {
     padding-right: 20px;
+}
+
+.image-with-text {
+    display: flex;
+    align-items: center;
 }
