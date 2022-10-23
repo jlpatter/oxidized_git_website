@@ -1,0 +1,27 @@
+
+.download-links {
+    text-align: center;
+}
+
+.download-link {
+    padding: 30px 40px;
+    border-radius: 10px;
+    background-color: #FAB218;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.download-link-icon {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+}
+
+.little-margin-right {
+    margin-right: 10px;
+}
+
+.some-margin-bottom {
+    margin-bottom: 50px;
+}
