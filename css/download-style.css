@@ -1,15 +1,20 @@
 
 .download-links {
-    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .download-link {
+    display: block;
+    width: min-content;
+    height: min-content;
     padding: 30px 40px;
     border-radius: 10px;
     background-color: #FAB218;
     color: black;
     text-decoration: none;
     text-align: center;
+    white-space: nowrap;
 }
 
 .download-link-icon {
