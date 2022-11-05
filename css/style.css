@@ -22,6 +22,10 @@ h1 {
     height: auto;
 }
 
+.screenshot-image {
+    width: 100%;
+}
+
 .little-padding-right {
     padding-right: 20px;
 }
